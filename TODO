@@ -1,0 +1,2 @@
+* any better way to display passwords in an unattended install other than showing them for 60 seconds in console?
+* work out manual process for updating embedded efi image boot menu rather than using mkksiso
